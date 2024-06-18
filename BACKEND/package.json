@@ -7,8 +7,7 @@
   "scripts": {
     "start": "node server.js", 
     "dev": "nodemon server.js",
-    "build": "npm i",
-    "postinstall": "npm install -g nodemon && npx nodemon server.js"
+    "build": "npm i"
 },
   "author": "",
   "license": "ISC",
